@@ -44,7 +44,7 @@
     "title": "Weather Analysis System",
     "imageSrc": "https://1drv.ms/i/c/598c7502bc1eca3b/IQQYHix3ZC4lSZWZMPgrfwacAeSCpUXCfMHnnTeY93P-jIQ?width=1024",
     "description": "I develop this as a term project using reactJs, SQl and PowerBI for analysis of weather historical data",
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://github.com/asadalimcj/WeatherAnalysis.git",
+    "source": "https://github.com/asadalimcj/WeatherAnalysis.git"
   }
 ]
