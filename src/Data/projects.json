@@ -4,8 +4,8 @@
     "title": "React E-Commerce",
     "imageSrc": "https://1drv.ms/i/c/598c7502bc1eca3b/IQS1gzwmT_mJRZ7x2nlZzzpoAZLAh7Nla9r68ZNAAfLCPkk?width=1024",
     "description": "I develop mini ecommerce project which ha limited functionality. IT is a MERN stack project and fully responsive for all deveices.",
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://github.com/asadalimcj/Ecommerce.git",
+    "source": "https://github.com/asadalimcj/Ecommerce.git"
   },
   {
     "key": 2,
@@ -36,8 +36,8 @@
     "title": "Metro Train Ticket Management System",
     "imageSrc": "https://1drv.ms/i/c/598c7502bc1eca3b/IQSkFcNfWF1GQqzSnX6dN7iWAdiF8j6yvE-jsfngswjL-uQ?width=1024",
     "description": "I made this project as a part of my First Smester Term Project using basic Knowledge of programming in C++. This was a console based application and in secont semester I modified the same application using concepts of OOPs in c#",
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://github.com/asadalimcj/Guiapplication.git",
+    "source": "https://github.com/asadalimcj/Guiapplication.git"
   },
   {
     "key": 6,
