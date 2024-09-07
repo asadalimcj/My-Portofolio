@@ -12,24 +12,24 @@
     "title": "Blogging Website",
     "imageSrc": "https://1drv.ms/i/c/598c7502bc1eca3b/IQTRL-EGw3CaTaaiaaavOnxVASWiwp6GgdnMI6gkFXXxkak?width=1920&height=868",
     "description": "This website is dveloped using Express, nodejs and EJS where you can post your blogs",
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://github.com/asadalimcj/BlogWebsite.git",
+    "source": "https://github.com/asadalimcj/BlogWebsite.git"
   },
   {
     "key": 3,
     "title": "React Travel Website",
     "imageSrc": "https://1drv.ms/i/c/598c7502bc1eca3b/IQRDegOQkNnlRLf7lccJ-RDHASi8l9Btq6s5iEaH5IUPVW8?width=1024",
     "description": "This project is basically a website like tour and travel built using reactJS and fully responsive for all devices",
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://tour-and-travel-jade.vercel.app/",
+    "source": "https://github.com/asadalimcj/tourAndTravel.git"
   },
   {
     "key": 4,
     "title": "React Notes App",
     "imageSrc": "https://1drv.ms/i/c/598c7502bc1eca3b/IQT7f-tTC1owS6nozG1qXQgIAcMeoozZZFzZgIx4-sk615s?width=1940&height=868",
     "description": "This project is basically the clone of google Notes Keeper App. I build it using reactJS where you can add your notes and delete as well",
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://keeper-app-liart.vercel.app/",
+    "source": "https://github.com/asadalimcj/KeeperApp.git"
   },
   {
     "key": 5,
