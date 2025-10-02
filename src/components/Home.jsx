@@ -25,13 +25,7 @@ export default function Home() {
       <div id="home" className="home">
         <div className="left" data-aos="fade-right">
           <h1 ref={typedref}></h1>
-          <a
-            href={pdf}
-            download="asadResume"
-            className="btn btn-outline-warning"
-          >
-            Download Resume
-          </a>
+          
         </div>
         <div className="right" data-aos="fade-left">
           <img src={asad} alt="Asad Ali" />
